@@ -1,4 +1,17 @@
 # Welcome to HomeAway DevTools README
+
+## Preface
+
+This is a new document and still a work in progress.
+
+Two reasons for this to exist
+1. The creation has helped me identify and refine my thoughts and values.
+2. Hopefully this will help you understand me better and help us work together.
+
+Important: NOT meant as a replacement for actually getting to know each other.
+
+## Let's Get Started
+
 Hi, welcome to the team. I’m so glad you are here at HomeAway.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
