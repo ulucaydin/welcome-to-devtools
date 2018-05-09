@@ -1,4 +1,4 @@
-# Welcome to the HomeAway Cloud Platform README
+# Welcome to the HomeAway DevTools README
 Hi, welcome to the team. I’m so glad you are here at HomeAway.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
@@ -55,3 +55,4 @@ If you send me a presentation deck a reasonable amount of time before a meeting,
 
 If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
 
+- Uluc
