@@ -55,4 +55,4 @@ If you send me a presentation deck a reasonable amount of time before a meeting,
 
 If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
 
-- Uluc
+~Uluc
