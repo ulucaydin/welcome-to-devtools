@@ -37,7 +37,7 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 I firmly believe that feedback is at the core of building trust and respect in a team.
 
-At $COMPANY, there is a formal feedback cycle which occurs twice a year. The first time we go through this cycle, I’ll draft a proposed set of goals for you for the next review period. These are not product or technology goals; these are professional growth goals for you. I’ll send you these draft goals as well as upward feedback from your team before we meet so you can review beforehand.
+At HomeAway, there is a formal feedback cycle which occurs twice a year. The first time we go through this cycle, I’ll draft a proposed set of goals for you for the next review period. These are not product or technology goals; these are professional growth goals for you. I’ll send you these draft goals as well as upward feedback from your team before we meet so you can review beforehand.
 
 In our face-to-face meeting, we’ll discuss and agree on your goals for the next period, and I’ll ask for feedback on my performance. At our following review, the process differs thusly: I’ll review you against our prior goals, and I’ll introduce new goals (if necessary). Rinse and repeat.
 
