@@ -1,4 +1,4 @@
-# Welcome to the HomeAway DevTools README
+# Welcome to HomeAway DevTools README
 Hi, welcome to the team. I’m so glad you are here at HomeAway.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
