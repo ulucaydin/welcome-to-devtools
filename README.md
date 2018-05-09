@@ -21,7 +21,7 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 **Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
 
-**Leadership comes from everywhere.** My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers.  As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
+**Leadership comes from everywhere.**  I’ve wasted a lot of time in poorly run meetings by bad managers.  As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
 
 **I see things as systems.** I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
 
