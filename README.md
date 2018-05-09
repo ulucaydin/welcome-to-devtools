@@ -55,24 +55,3 @@ If you send me a presentation deck a reasonable amount of time before a meeting,
 
 If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
 
-## Nuance and Errata
-
-**I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
-
-**When the 1:1 feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
-
-**When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
-
-**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rands, can you help with X?”). I respond poorly to being told what to do (“Rands, do X.”) I have been this way since I was a kid and I probably need therapy.
-
-**I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry.
-
-**If I am on my phone during a meeting for more than 30 seconds, say something.** My attention wanders.
-
-**Humans stating opinions as facts** are a trigger for me.
-
-**Humans who gossip** are a trigger for me.
-
-**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I will update it frequently and would appreciate your feedback.
-
-[^1]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens.
