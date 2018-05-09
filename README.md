@@ -5,17 +5,19 @@
 > 1. The creation has helped me identify and refine my thoughts and values.
 > 2. Hopefully this will help you understand me better and help us work together.
 > Important: NOT meant as a replacement for actually getting to know each other.
+>
+> *Warning:* This should NOT be read to in any way apply to any other group or hiring manager at HomeAway.
 
 
 Hi, welcome to the team. I’m so glad you are here at HomeAway.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
 
-One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.[^1]
+One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.
 
 ## Our Average Week
 
-We’ll have a 1:1 every week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s. When you or I think of a topic, we dump it in that channel.
+We’ll have a 1:1 every other week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve want to use Slack direct message(DM) for the two us of to capture future topics for our 1:1s. When you or I think of a topic, we dump it in that channel.
 
 We’ll have a staff meeting with your peers every week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
 
@@ -29,23 +31,36 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 **Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
 
-**Leadership comes from everywhere.**  I’ve wasted a lot of time in poorly run meetings by bad managers.  As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
-
-**I see things as systems.** I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
+**Leadership comes from everywhere.**  I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
 
 **It is important to me that humans are treated fairly.** I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
 
+**I see things as systems.** I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
+
+**I have tendency to architect things, and I shouldn't.** I worked as an architect before and I still have the urge to architect things, even though that's not my job and there are folks in this company with the title "architect" to do it for living. Feel free to remind me if I get into the architecture, I'm still trying to improve this habbit.  
+
 **I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 
-**I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
+**I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time. I'm also a firm believer of [Broken windows theory](https://en.wikipedia.org/wiki/Broken_windows_theory) which goes hand in hand with fixing small things fast.
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career.
+
+## My Job
+
+1. Attract and Retain World-Class Talent (that's you)
+2. Set context
+
+And there's no #3. 
+
+- If I do something that negatively impacts my ability to retain you, you would be doing me a huge favor if you let me know about it, as soon as possible. 
+
+- If I do something that feels more like telling you how to do your job than setting context, you'd be doing me a huge favor if you let me know about it, as soon as possible
 
 ## Feedback Protocol
 
 I firmly believe that feedback is at the core of building trust and respect in a team.
 
-At HomeAway, there is a formal feedback cycle which occurs twice a year. The first time we go through this cycle, I’ll draft a proposed set of goals for you for the next review period. These are not product or technology goals; these are professional growth goals for you. I’ll send you these draft goals as well as upward feedback from your team before we meet so you can review beforehand.
+At HomeAway, there is a formal feedback cycle which occurs once a year. The first time we go through this cycle, I’ll draft a proposed set of goals for you for the next review period. These are not product or technology goals; these are professional growth goals for you. I’ll send you these draft goals as well as upward feedback from your team before we meet so you can review beforehand.
 
 In our face-to-face meeting, we’ll discuss and agree on your goals for the next period, and I’ll ask for feedback on my performance. At our following review, the process differs thusly: I’ll review you against our prior goals, and I’ll introduce new goals (if necessary). Rinse and repeat.
 
