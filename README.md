@@ -77,3 +77,6 @@ If you send me a presentation deck or meeting update in a reasonable amount of t
 If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
 
 ~Uluc
+
+
+> Final note: [This post](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) has been my main inspiration to create this document.
