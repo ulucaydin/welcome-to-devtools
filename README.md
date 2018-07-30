@@ -31,17 +31,17 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 **Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Most other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
 
-**Leadership comes from everywhere.**  I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
-
 **It is important to me that humans are treated fairly.** I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity. In any doubt or concern, I will be here to help you.
+
+**Leadership comes from everywhere.**  I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
 
 **I try to automate everything and focus on real challanges .** I reduce all complex things into systems and try to automate them. I take great joy in attempting to understand how these systems and flowcharts all fit together and finally automate them so that I can focus on things that matter, instead of repeating "me too"s. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
 
+**I believe in the compounding awesomeness of continually fixing small things.** Albert Einstein once said compounding [interest] is the most powerful force in the universe. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time. I suggest you to take a look at the famous [Broken windows theory](https://en.wikipedia.org/wiki/Broken_windows_theory) which goes hand in hand with fixing small things fast.
+
 **I have tendency to architect things, and I shouldn't.** I worked as a software engineer and architect before and I still have the urge to architect things, even though that's not my job and there are folks in this company with the title "architect" to do it for living and do it better. Feel free to remind me if I get into the architecture, I'm still trying to fix this habbit.  
 
-**I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
-
-**I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time. I suggest you to take a look at the famous [Broken windows theory](https://en.wikipedia.org/wiki/Broken_windows_theory) which goes hand in hand with fixing small things fast.
+**I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate. I prefer to get something small but working out there to test things out and receive early feedback, instead of "death by committee" converations.
 
 ## My Job
 
