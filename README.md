@@ -19,7 +19,7 @@ One of the working relationships we need to define is ours. The following is a u
 
 We’ll have a 1:1 every other week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve want to use Slack direct message(DM) for the two us of to capture future topics for our 1:1s. When you or I think of a topic, we dump it in that channel.
 
-We’ll have a all-hands meeting with your peers every other week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
+We’ll have a all-hands/retrospective meeting with your peers every other week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
 
 You can Slack or email me 24 hours a day. I like responding quickly.
 
