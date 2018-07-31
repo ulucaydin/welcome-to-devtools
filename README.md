@@ -9,7 +9,7 @@
 > *Warning:* This should NOT be read to in any way apply to any other group or hiring manager at HomeAway.
 
 
-Hi, welcome to the team. I’m so glad you are here at HomeAway and joining the Development Tools Engineering team (we call it DevTools in short).
+Hi, welcome to the team. I’m so glad you are here at HomeAway and joining the Development Tools Engineering team (we call it DevTools for short).
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
 
@@ -17,9 +17,9 @@ One of the working relationships we need to define is ours. The following is a u
 
 ## Our Average Week
 
-We’ll have a 1:1 every other week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve want to use Slack direct message(DM) for the two us of to capture future topics for our 1:1s. When you or I think of a topic, we dump it in that channel.
+We’ll have a 1:1 every other week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’d like to use Slack direct messages (DMs) for the two us to capture future topics for our 1:1s. When you or I think of a topic, we dump it in that channel.
 
-We’ll have a all-hands/retrospective meeting with your peers every other week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
+We’ll have an all-hands/retrospective meeting with your peers every other week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
 
 You can Slack or email me 24 hours a day. I like responding quickly.
 
@@ -35,13 +35,13 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 **Leadership comes from everywhere.**  I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
 
-**I try to automate everything and focus on real challanges .** I reduce all complex things into systems and try to automate them. I take great joy in attempting to understand how these systems and flowcharts all fit together and finally automate them so that I can focus on things that matter, instead of repeating "me too"s. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
+**I try to automate everything and focus on real challenges .** I reduce all complex things into systems and try to automate them. I take great joy in attempting to understand how these systems and flowcharts all fit together and finally automate them so that I can focus on things that matter, instead of repeating "me too"s. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
 
 **I believe in the compounding awesomeness of continually fixing small things.** Albert Einstein once said compounding [interest] is the most powerful force in the universe. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time. I suggest you to take a look at the famous [Broken windows theory](https://en.wikipedia.org/wiki/Broken_windows_theory) which goes hand in hand with fixing small things fast.
 
-**I have tendency to architect things, and I shouldn't.** I worked as a software engineer and architect before and I still have the urge to architect things, even though that's not my job and there are folks in this company with the title "architect" to do it for living and do it better. Feel free to remind me if I get into the architecture, I'm still trying to fix this habbit.  
+**I have tendency to architect things, and I shouldn't.** I worked as a software engineer and architect before and I still have the urge to architect things, even though that's not my job and there are folks in this company with the title "architect" to do it for living and do it better. Feel free to remind me if I get into the architecture, I'm still trying to fix this habit.  
 
-**I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate. I prefer to get something small but working out there to test things out and receive early feedback, instead of "death by committee" converations.
+**I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate. I prefer to get something small but working out there to test things out and receive early feedback, instead of "death by committee" conversations.
 
 ## My Job
 
@@ -58,7 +58,7 @@ And there's no #3.
 
 I firmly believe that feedback is at the core of building trust and respect in a team.
 
-At HomeAway, we have a continous feedback cycle. I will make sure to provide you both positive and negative feedback and propose set of goals for you. These are not product or technology goals; these are professional growth goals for you.
+At HomeAway, we have a continous feedback cycle. I will make sure to provide you both positive and negative feedback and propose goals for you. These are not product or technology goals; these are professional growth goals for you.
 
 In our face-to-face meeting, we’ll discuss and agree on your goals for the next period, and I’ll ask for feedback on my performance and "what can I do better?". At our following review, the process differs thusly: I’ll review you against our prior goals, and I’ll introduce new goals (if necessary). Rinse and repeat.
 
@@ -68,7 +68,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 ## Meeting Protocol
 
-I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, it’s title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
+I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
 My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time.
 
